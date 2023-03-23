@@ -18,12 +18,12 @@ Create a MySQL database and update the JDBC connection properties in the code to
 Run the application and start adding books and students to the system.
 
 ## Technologies Used
-Java
-JDBC
-MySQL
-JFrame
-Swing
-Code Structure
+- Java
+- JDBC
+- MySQL
+- JFrame
+- Swing
+- Code Structure
 The code is structured using the MVC (Model-View-Controller) architecture and follows best practices for clean code. It also includes the SQL script to create the necessary tables in the database.
 
 ## Contributions
