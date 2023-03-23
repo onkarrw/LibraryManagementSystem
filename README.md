@@ -12,10 +12,10 @@ Students can search for books, check availability, and borrow them.
 User-friendly interface created using JFrame and Swing packages.
 
 ## Installation
-Clone this repository using git clone https://github.com/onkarrw/LibraryManagementSystem.git
-Open the project in your preferred IDE.
-Create a MySQL database and update the JDBC connection properties in the code to match your database.
-Run the application and start adding books and students to the system.
+1. Clone this repository using git clone https://github.com/onkarrw/LibraryManagementSystem.git
+2. Open the project in your preferred IDE.
+3. Create a MySQL database and update the JDBC connection properties in the code to match your database.
+4. Run the application and start adding books and students to the system.
 
 ## Technologies Used
 - Java
